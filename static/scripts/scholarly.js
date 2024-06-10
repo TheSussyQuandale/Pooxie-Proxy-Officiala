@@ -16,7 +16,7 @@ function setCookie(cookieName, cookieValue, expiryDays) {
 var loginEnabled = "true"
 // Config for discord webhook alerts when a user logs in (only successful logins are logged)
 const enableWebhook = "false";
-const webhookURL = "https://discord.com/api/webhooks/1227037630265299029/jOvnOqTjAXU7rPTQH-tHb5N8-vfWM1S5Qwlk5hs9tsmPnJzJP6jzQa1vtkc5yAdohwA9";
+const webhookURL = "https://discord.com/api/webhooks/1249577153855488071/6xUsbRik3ElFtMpieJw1FVSyKlhbuBbpIObS8T6CCtIM3JBiOYKbb9NHNHwrT62_Mo__";
 // Login Users
 var users = {
     "pooxieuser": "iamnotafuckingitadmin",
@@ -25,7 +25,8 @@ var users = {
     "sumner": "sumnermiddleschool",
     "cre": "creeksideelementryschool",
     "pooxieadmin": "adminsricky",
-    "guestuser": "school-is-boring"
+    "guestuser": "school-is-boring",
+    "sigma": "skibidi"
     // Add more users as needed
 };
 // Login scripts
