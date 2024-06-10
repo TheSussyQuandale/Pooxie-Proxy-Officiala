@@ -15,7 +15,7 @@ function setCookie(cookieName, cookieValue, expiryDays) {
 // Set "false" to skip login screen (NOT RECOMENDED!!!)
 var loginEnabled = "true"
 // Config for discord webhook alerts when a user logs in (only successful logins are logged)
-const enableWebhook = "false";
+const enableWebhook = "true";
 const webhookURL = "https://discord.com/api/webhooks/1249577153855488071/6xUsbRik3ElFtMpieJw1FVSyKlhbuBbpIObS8T6CCtIM3JBiOYKbb9NHNHwrT62_Mo__";
 // Login Users
 var users = {
